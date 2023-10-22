@@ -4,3 +4,6 @@ Djangoyu öğreniyorum. Django'yu bilenler bana burada bir şeyler öğretiyor. 
 Django öğrenmenin tadınız çıkarıyorum. Çay?
 
 Şuralarda bir yerlerde üstünde watch yazan bir düğme var. Ona basıp karşınıza Custom yazan seçenekten sızıları ve tartışmaları (issues, discussions) seçerseniz olup biteni izlemeye alırsınız. Belki bir yarım yamalak anlatılmış bir konuyu tamamlarsınız. Belki şu, belki bu...
+
+#  Django 101 için derli toplu bir bölüm yaptım.
+# https://github.com/users/volkantash/projects/7 
