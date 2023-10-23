@@ -1,9 +1,13 @@
 # django-101
-Djangoyu öğreniyorum. Django'yu bilenler bana burada bir şeyler öğretiyor. Her biri birbirinden değerli kişiler. Ve anlattıkları ile artık gözüm kapalı Django kullanacakmışım gibi geliyor. Arada başka yerlerden öğrendiklerimi gelip yazıyorum. Belki birileri burayı bulur da yararlanır veya bunamaya başlayıp unuturum falan... 
+Djangoyu öğrenir iken kendim için bir yer yapıyorum. Başkaları da yararlansın diye anlaşılır bir dil ile yazmaya çalışıyorum. Django'yu bilen arada uğrayıp bir şeyler anlatıyor. Bir gün gözüm kapalı Django kullanacakmışım gibi geliyor. 
 
-Django öğrenmenin tadınız çıkarıyorum. Çay?
+Bir yerlerde bir şeylerin yanlış olduğunu görürseniz lütfen bana bildirmenin bir yolunu bulun. Veya [tartışmalar](https://github.com/volkantash/django-101/discussions) alanında paylaşın.
 
-Şuralarda bir yerlerde üstünde watch yazan bir düğme var. Ona basıp karşınıza Custom yazan seçenekten sızıları ve tartışmaları (issues, discussions) seçerseniz olup biteni izlemeye alırsınız. Belki bir yarım yamalak anlatılmış bir konuyu tamamlarsınız. Belki şu, belki bu...
+Bir de şuralarda bir yerlerde üstünde watch yazan bir düğme var. Ona basıp karşınıza Custom yazan seçenekten sızıları ve tartışmaları (issues, discussions) seçerseniz olup biteni izlemeye alırsınız. Belki yarım yamalak anlatılmış bir konuyu düzeltirsiniz. 
+
+Neyse... Şimdilik...
+
+Django öğrenmenin tadını çıkarıyorum. Çay alır mısınız?
 
 **django-101:** Adım adım Django projesinin nereye evrildiğini izleyebileceğiniz dizindir.
 **django-işleri:** Django ile oluşturulan projedir.
