@@ -12,5 +12,7 @@ Django öğrenmenin tadını çıkarıyorum. Çay alır mısınız?
 **django-101:** Adım adım Django projesinin nereye evrildiğini izleyebileceğiniz dizindir.
 **django-işleri:** Django ile oluşturulan projedir.
 
-#  Django 101 için derli toplu bir bölüm yaptım.
+#  Django 101 - Adım adım öğren.
 # https://github.com/users/volkantash/projects/7 
+![resim](https://github.com/volkantash/django-101/assets/25375593/9e4a4c59-f23a-4274-bc49-8d76e7e787fd)
+
