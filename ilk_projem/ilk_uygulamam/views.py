@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    HttpResponse("Merhaba, Dünya. Bu benim ilk projem.")
+    return HttpResponse("Merhaba, Dünya. Bu benim ilk projem.")
